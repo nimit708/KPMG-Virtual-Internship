@@ -1,2 +1,2 @@
 # KPMG-Virtual-Internship
-Projects done during the virtual internship in KPMG
+Tasks done during the virtual internship in KPMG
